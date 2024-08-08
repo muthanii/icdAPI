@@ -9,7 +9,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 var app = builder.Build();
 
-app.MapGet("api/description", (AppDbContext db) =>
+app.MapGet("api/all", (AppDbContext db) =>
 {
   var description = db.icdapi.ToList();
   return Results.Ok(description);
