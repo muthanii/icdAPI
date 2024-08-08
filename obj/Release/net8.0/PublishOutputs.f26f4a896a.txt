@@ -1,0 +1,12 @@
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/icdAPI
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/appsettings.Development.json
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/appsettings.json
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/icdAPI.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/icdAPI.runtimeconfig.json
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/icdAPI.pdb
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/Npgsql.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/muthanii/coding/csharp/API/bin/Release/net8.0/publish/icdAPI.deps.json

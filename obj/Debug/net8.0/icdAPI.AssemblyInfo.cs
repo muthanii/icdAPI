@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("icdAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7883c03979636e0689664024e42da7e3c3a3808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304079b1e5fde98db1432b172184ff900eb4135c")]
 [assembly: System.Reflection.AssemblyProductAttribute("icdAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("icdAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
